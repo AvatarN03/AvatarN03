@@ -1,51 +1,55 @@
 <h1 align="center">Hi, I'm Prashanth Naidu 👋</h1>
-<p align="center">🚀 Developer | 🎓 B.Tech Computer Engineering | ❤️ MERN Stack & AI/ML | 🌐 Open to Collaborations</p>
+<p align="center">
+  💻 B.Tech Computer Engineering | ⚙️ MERN Stack Dev | 🤖 AI/ML Explorer<br/>
+  🎯 Focused on Full-Stack Projects, DSA, and Real-World Apps
+</p>
 
 ---
 
-## 💻 About Me
+## 💡 About Me
 
-I'm a third-year Computer Engineering student passionate about building full-stack web applications and exploring the world of Artificial Intelligence and Machine Learning. I enjoy creating real-world solutions using modern tech stacks like **MERN**, **Next.js**, and **PostgreSQL**, and I love experimenting with cloud tools like **AWS S3**, **Clerk**, and **Neon DB**.
+I'm a 3rd-year Computer Engineering student passionate about full-stack development, cloud integration, and AI/ML. I love solving real-world problems using modern technologies like **MERN**, **Next.js**, and **AWS**.
 
----
-
-## ⚙️ Tech Stack
-
-- **Languages**: JavaScript (ES6+), TypeScript, Java, Python, SQL
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL, Prisma ORM
-- **DevOps & Tools**: Git, GitHub, Vercel, AWS (S3), Docker (basics)
-- **Other**: Clerk / NextAuth for Auth, REST APIs, S3 File Uploads, Real-Time Chat with Pusher.js
+- 🌱 Currently learning **DSA in Java** and **Machine Learning in Python**
+- 🛠️ Building real-time and secure web applications
+- 🚀 Exploring tools like **Clerk**, **Neon DB**, and **AWS S3**
 
 ---
 
-## 📈 Current Focus
+## 🛠️ Tech Stack
 
-- 🔍 Deepening knowledge in **Data Structures & Algorithms** using Java  
-- 🤖 Learning **AI/ML with Python**  
-- 🎯 Building scalable, secure, and production-ready web applications  
-- 🧠 Exploring system-level concepts like **Compilers, Loaders, and Linkers**
+- **Languages**: JavaScript, TypeScript, Python, Java  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, PostgreSQL, Prisma  
+- **DevOps/Tools**: GitHub, Vercel, Docker (Basics), AWS (S3)  
+- **Authentication**: Clerk, NextAuth  
+- **Others**: REST APIs, Real-time apps with Pusher.js  
 
 ---
 
-## 🛠️ Notable Projects
+## 📈 Current Focus Areas
 
-### 📦 Expense Tracker App
-- Tech: Next.js, Clerk, Neon DB, Prisma, Tailwind
-- Role: Auth with Clerk, transaction-based dashboard, secure API routing.
+- 📌 Mastering Java DSA
+- 🧠 Exploring AI/ML libraries in Python
+- 🧰 Enhancing system knowledge: loaders, linkers, compiler phases
+- 🌐 Building scalable, cloud-integrated full-stack apps
 
-### 🌐 Event Management Platform (Student & Admin Dashboard)
-- Tech: Next.js, PostgreSQL, Tailwind CSS
-- Features: Attendance proof tracking, community and event management, nested sidebar for admin.
+---
 
-### ☁️ S3 File Uploader
-- Tech: React, Node.js, AWS S3
-- Features: File preview/download, upload limit, user-specific file management.
+## 📦 Featured Projects
 
-### 🧑‍💻 Real-Time Chat App
-- Tech: React, Node.js, Pusher.js
-- Features: Real-time messaging, presence detection, chat UI design.
+### 🎯 Expense Tracker (Next.js + Clerk + Prisma + NeonDB)
+Secure, user-specific expense dashboard with authentication and fast database querying.
+
+### 🌐 Event Management Platform (Admin + Student Dashboards)
+Complete event and community management with attendance proof and nested controls.
+
+### ☁️ File Uploader with AWS S3
+S3-integrated file manager with preview/download/delete and upload limits per user.
+
+### 💬 Real-Time Chat App (React + Pusher)
+Live chat app with real-time updates, message presence, and minimal UI.
 
 ---
 
@@ -53,19 +57,19 @@ I'm a third-year Computer Engineering student passionate about building full-sta
 
 <p align="center">
   <a href="mailto:jsprashanth003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jsprashanth003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-jsprashanth003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/prashanth003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prashanth%20Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Prashanth%20Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Let's Learn & Build Together!
+## ✨ Let's Build Together
 
-I'm always open to new ideas, projects, and opportunities. Whether it's a fun side project or something impactful, let’s collaborate and grow together!
+I'm always open to collaborations, freelance gigs, or meaningful discussions. Feel free to connect!
+
+> 🔖 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
-
-*Thanks for stopping by! ⭐ Don't forget to check out my pinned repositories!*
