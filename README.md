@@ -156,7 +156,35 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsprashanth003@gmail.com)
+
+
+## 📧 Contact Me
+
+<div align="center">
+
+  <code id="email">jsprashanth003@gmail.com</code>
+  <br><br>
+
+  <button onclick="copyEmail()" style="padding:8px 12px; border:none; background:#4CAF50; color:white; border-radius:6px; cursor:pointer;">
+    📋 Copy Email
+  </button>
+
+  <p id="copied" style="color:green; display:none;">✅ Email copied!</p>
+
+</div>
+
+<script>
+  function copyEmail() {
+    const email = "jsprashanth003@gmail.com";
+    navigator.clipboard.writeText(email).then(() => {
+      document.getElementById("copied").style.display = "block";
+      setTimeout(() => {
+        document.getElementById("copied").style.display = "none";
+      }, 2000);
+    });
+  }
+</script>
+
 
 </div>
 
