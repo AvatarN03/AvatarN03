@@ -25,7 +25,7 @@ const prashanth = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Currently working on **AI-Powered Applications**
 - 🌱 Learning **Advanced DSA** and **Machine Learning**
