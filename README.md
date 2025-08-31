@@ -1,9 +1,10 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" style={{text-align: "center"}}> Hi, I'm **Prashanth Naidu** (@AvatarN03)
-
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm <strong>Prashanth Naidu</strong> (@AvatarN03)</h1>
+</div>
+<!-- The wave.gif adds a friendly animated waving hand next to your name! -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Final+Year+Computer+Engineering+Student;Full+Stack+Developer+%7C+MERN+%26+Next.js;AI%2FML+Enthusiast+%7C+Cloud+Computing;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AvatarN03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AvatarN03?label=Followers&style=social" alt="GitHub Followers" />
