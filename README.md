@@ -157,6 +157,7 @@ graph TD
   
 [![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
+
 <details>
 <summary>📧 <strong>Click to reveal email</strong></summary>
 <br>
