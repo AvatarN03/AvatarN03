@@ -156,10 +156,7 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
-
-
-Click to copy:  
-[![Email](https://img.shields.io/badge/📋_Copy_Email-green)](mailto:jsprashanth003@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsprashanth003@gmail.com)
 
 
 
