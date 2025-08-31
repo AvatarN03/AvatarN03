@@ -157,7 +157,29 @@ graph TD
   
 [![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsprashanth003@gmail.com)
+<details>
+<summary>📧 <strong>Click to reveal email</strong></summary>
+<br>
+<div align="center">
+  <code>jsprashanth003@gmail.com</code>
+  <br><br>
+  <em>Click to copy to clipboard:</em>
+  <br>
+  <input type="text" value="jsprashanth003@gmail.com" id="email" readonly style="padding: 8px; margin: 5px; border: 1px solid #ccc; border-radius: 4px; background: #f9f9f9;">
+  <button onclick="copyToClipboard()" style="padding: 8px 12px; margin: 5px; background: #0366d6; color: white; border: none; border-radius: 4px; cursor: pointer;">📋 Copy Email</button>
+</div>
+<script>
+function copyToClipboard() {
+  const emailInput = document.getElementById('email');
+  emailInput.select();
+  emailInput.setSelectionRange(0, 99999);
+  navigator.clipboard.writeText(emailInput.value).then(function() {
+    alert('Email copied to clipboard! ✅');
+  });
+}
+</script>
+</details>
+</div>
 
 </div>
 
