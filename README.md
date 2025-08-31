@@ -152,26 +152,14 @@ graph TD
 ---
 
 ## 🤝 **Let's Connect!**
-
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
-
-<details>
-<summary>📧 <strong>Click to copy my email</strong></summary>
-<br>
-<div align="center">
-
-[![Copy Email](https://img.shields.io/badge/📋%20Copy%20Email-blue?style=for-the-badge)](mailto:jsprashanth003@gmail.com)
-
-<br><br>
-<code>jsprashanth003@gmail.com</code>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsprashanth003@gmail.com)
 
 </div>
-</details>
 
-</div>
 
 
 
