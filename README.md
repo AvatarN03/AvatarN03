@@ -155,10 +155,9 @@ graph TD
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu)
-[![Twitter](https://img.shields.io/badge/-@AvatarN03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AvatarN03)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Prashanth_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-naidu03/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-in-3-d.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsprashanth003@gmail.com)
 
 </div>
 
